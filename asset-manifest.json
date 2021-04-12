@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Client/static/css/main.81749e60.chunk.css",
+    "main.css": "/Client/static/css/main.87091bd7.chunk.css",
     "main.js": "/Client/static/js/main.cc52bc4e.chunk.js",
     "main.js.map": "/Client/static/js/main.cc52bc4e.chunk.js.map",
     "runtime-main.js": "/Client/static/js/runtime-main.6e5495f4.js",
@@ -10,7 +10,7 @@
     "static/js/2.0d8b908a.chunk.js.map": "/Client/static/js/2.0d8b908a.chunk.js.map",
     "index.html": "/Client/index.html",
     "static/css/2.150d169a.chunk.css.map": "/Client/static/css/2.150d169a.chunk.css.map",
-    "static/css/main.81749e60.chunk.css.map": "/Client/static/css/main.81749e60.chunk.css.map",
+    "static/css/main.87091bd7.chunk.css.map": "/Client/static/css/main.87091bd7.chunk.css.map",
     "static/js/2.0d8b908a.chunk.js.LICENSE.txt": "/Client/static/js/2.0d8b908a.chunk.js.LICENSE.txt",
     "static/media/TypeBar.module.scss": "/Client/static/media/PTRootUI-Regular.b9ad6ba7.eot",
     "static/media/k1.92294cdf.jpg": "/Client/static/media/k1.92294cdf.jpg",
@@ -27,7 +27,7 @@
     "static/js/runtime-main.6e5495f4.js",
     "static/css/2.150d169a.chunk.css",
     "static/js/2.0d8b908a.chunk.js",
-    "static/css/main.81749e60.chunk.css",
+    "static/css/main.87091bd7.chunk.css",
     "static/js/main.cc52bc4e.chunk.js"
   ]
 }
